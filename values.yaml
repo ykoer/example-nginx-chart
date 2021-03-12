@@ -1,0 +1,4 @@
+route: true
+deploymentConfig: true
+replicas: 1
+image: images.paas.redhat.com/paas-testing/nginx-example:latest
